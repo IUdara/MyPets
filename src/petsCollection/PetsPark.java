@@ -6,7 +6,7 @@ public class PetsPark {
 
 		Pet snowy = new Dog();
 		Pet peththa = new Parrot();
-		Pet puncha = new Rabbit();
+		Pet mikky = new Rat();
 
 		snowy.eat();
 		snowy.move();
@@ -16,9 +16,9 @@ public class PetsPark {
 		peththa.move();
 		peththa.getLegsCount();
 
-		puncha.eat();
-		puncha.move();
-		puncha.getLegsCount();
+		mikky.eat();
+		mikky.move();
+		mikky.getLegsCount();
 
 	}
 
