@@ -16,7 +16,7 @@ public class Parrot implements Pet {
 
 	@Override
 	public void eat() {
-		System.out.println("Parrot is eating grains");
+		System.out.println("Parrot is eating fruits");
 
 	}
 
